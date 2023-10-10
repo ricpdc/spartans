@@ -1,10 +1,10 @@
 ---
-title: "Theming with bslib and thematic bla bla bla bla" 
+title: "Theming with bslib and thematic" 
 output: 
   html_document:
     code_folding: show
     theme:
-      bg: "#202123"
+      bg: "#202583"
       fg: "#B8BCC2"
       primary: "#EA80FC"
       secondary: "#00DAC6"
